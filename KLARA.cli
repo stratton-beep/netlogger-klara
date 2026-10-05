@@ -1,1 +1,7 @@
+[ClubInfo]
+ClubName=Keuka Lake Amateur Radio Association
+ProfileName=KLARA
+ProfileURL=https://raw.githubusercontent.com/stratton-beep/netlogger-klara/main/KLARA.prf
+AllowUpdates=Yes
+ChecksumRequired=No
 
